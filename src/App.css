@@ -1,0 +1,90 @@
+.hello{
+    color: blue;
+}
+h1{
+    text-align: center;
+    background-color: navy;
+    color: white;
+    padding: 20px;
+}
+h2{
+    color: navy;
+}
+p{
+    color: grey;
+}
+#btn1{
+    background-color: navy;
+}
+#btn2{
+    background-color: antiquewhite;
+    color: black;
+}
+#btn3{
+    background-color:brown;
+    color: white;
+}
+#btn4{
+    background-color:lightgreen;
+    color: black;
+   
+}
+#btn6{
+    background-color:gold;
+    color: black;
+}
+#btn5{
+    background-color:orangered;
+    color: white;
+}
+#btn7{
+    background-color:purple;
+    color: white;
+}
+#btn8{
+    background-color:rgb(229, 240, 243);
+    color: black;
+}
+#btn15{
+    background-color:rgb(58, 106, 119);
+    color: white;
+}
+#btn13{
+    background-color:rgb(102, 172, 163);
+    color: white;
+}
+#btn14{
+    background-color:palegreen;
+    color: black;
+}
+#btn12{
+    background-color:rgb(251, 233, 152);
+    color: black;
+}
+#btn10{
+    background-color:rgb(251, 208, 152);
+    color: black;
+}
+#btn11{
+    background-color:indigo;
+    color: white;
+}
+    
+/* .btn{
+    padding: 20px;
+    background-color: black;
+    margin-right: 100px;
+    color: white;
+    border-radius: 20px;
+}
+.btn1{
+    padding: 20px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-radius: 20px;
+}
+p{
+    color:white;
+    background-color: blueviolet;
+    font-weight: bolder;
+} */

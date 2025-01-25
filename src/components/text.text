@@ -1,0 +1,14 @@
+if we want to connect our react router with the browser url then we used browser router
+Routes and route insite it we inport our folder 
+<BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Textform heading = 'Enter the text to analyze below'  mode = {mode} />} />
+        <Route path="/about" element={<About />} />
+      </Routes>
+    </BrowserRouter>
+    in that way we also import this 
+    import ReactDOM from 'react-dom';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+then we go to the nav bar and change anchor tag to link and Href to to
+when we wanted to conect the navbar then we then we ewplace the link with navlink 
+npm install react-router-dom@6(for installing router)
